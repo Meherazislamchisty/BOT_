@@ -7,7 +7,7 @@
 	</a>
   <img alt="size" src=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
   <img alt="code-version" src=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
+  <img alt="visitors" src=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
   <img alt="size" src=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
 </p>
 
