@@ -6,7 +6,7 @@
 		<img src=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL" alt="Nodejs Support v16.x">
 	</a>
   <img alt="size" src=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
-  <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
+  <img alt="code-version" src=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
   <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
   <img alt="size" src=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
 </p>
