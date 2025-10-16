@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
-    <img src="https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL" alt="Watch demo video" width="400"/>
+    <img src="https://drive.google.com/uc?export=download&id=1aObLHB8N1Zlo54VY1HYSQo258cv7E7pP" alt="Watch demo video" width="400"/>
   </a>
 </p>
 
