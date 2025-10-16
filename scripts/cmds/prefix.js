@@ -113,7 +113,7 @@ module.exports = {
     if (event.body && event.body.toLowerCase() === "prefix") {
       return message.reply({
         body:
-          "╔══════『 𝐏𝐑𝐄𝐅𝐈𝐗 』══════╗\n"
+          "╔═════『 𝐏𝐑𝐄𝐅𝐈𝐗 』═════╗\n"
         + `║ 🌍 System : ${globalPrefix}\n`
         + `║ 💬 Chatbox : ${threadPrefix}\n`
         + `║ ➤ ${threadPrefix}help to see all available cmds 🧠\n`
