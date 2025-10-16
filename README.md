@@ -1,8 +1,8 @@
 <h1 align="center"> -💀𝑴𝑬𝑯𝑬𝑹𝑨𝒁 𝑩𝑶𝑻💀- </h1>
 
 <p align="center">
-  <a href=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
-    <img src=" https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL" alt="Watch demo video" width="400"/>
+  <a href="https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL">
+    <img src="https://drive.google.com/uc?export=download&id=1Frx9DgIvt5Nf0gL6jNCa0uzSDq_pMtnL" alt="Watch demo video" width="400"/>
   </a>
 </p>
 
